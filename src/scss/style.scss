@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+//common
+@import './common/header';
+@import './common/reset';
+
+//main
+@import './main/main';
+
+//sub
+@import './sub/company';
+@import './sub/consulting';
+@import './sub/location';
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
